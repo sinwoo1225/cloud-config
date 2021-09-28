@@ -1,6 +1,6 @@
 token:
   expiration_time: 8640000
-  secret: token_secret_default
+  secret: token_secret_prod
 
 gateway:
   ip: 192.168.75.239
