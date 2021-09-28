@@ -1,0 +1,6 @@
+token:
+  expiration_time: 8640000
+  secret: ojma2#$kmgomasdz!23sd42@4378Sdvbcbmk
+
+gateway:
+  ip: 192.168.75.239
