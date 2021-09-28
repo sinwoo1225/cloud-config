@@ -1,5 +1,5 @@
 token:
-  expiration_time: 86400000
+  expiration_time: 8640000
   secret: ojma2#$kmgomasdz!23sd42@4378Sdvbcbmk
 
 gateway:
