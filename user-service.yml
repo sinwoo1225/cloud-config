@@ -12,5 +12,5 @@ token:
 gateway:
   ip: 192.168.75.239
 
-order_service;
+order_service:
   url: http://127.0.0.1:8000/order-service/%s/orders
